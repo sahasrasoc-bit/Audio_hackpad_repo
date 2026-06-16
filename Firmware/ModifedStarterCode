@@ -21,7 +21,7 @@ PINS = [board.D11, board.D10, board.D9, board.D8, board.D6, board.D4, board.D3, 
 ##SW 2, D10 --> Space
 ##SW 3, D9 --> J
 ##SW 4, D8 --> Delete
-##SW 7, D6 --> M
+##SW 7, D6 --> Shift
 ##Encoder_A, D4 --> Volume Up --> F7 (iteration to macro --> dragging up)
 ##Encoder_B, D3 --> Volume Down --> F6 (iteration to macro --> dragging down)
 ##Encoder_Sw1, D1 --> Open up audio control ---> macro: Shift = U
@@ -42,7 +42,7 @@ keyboard.keymap = [
      KC.SPACE, 
      KC.J, 
      KC.DELETE, 
-     KC.M, 
+     KC.SHIFT, 
      KC.KC.Macro(Press(KC.MB_LMB), Tap(KC.MS_UP), Tap(KC.MS_UP), Tap(KC.MS_UP), Release(KC.MB_LMB),), 
      KC.Macro( Press(KC.MB_LMB), Tap(KC.MS_DOWN), Tap(KC.MS_DOWN), Tap(KC.MS_DOWN), Release(KC.MB_LMB),), 
      KC.Macro(Press(KC.LSHIFT), Tap(KC.EQUAL), Tap(KC.U), Release(KC.LSHIFT)),
