@@ -2,8 +2,8 @@
 -------------------------------------
 
 <img width="440" height="274" alt="image" src="https://github.com/user-attachments/assets/73c24944-7468-4e46-9fc2-c47c89f0b938" />
-\
-\
+
+/
 **Inspiration**
 --
 One of the biggest problems I always face when audio editing is having the shortcuts and keys 
