@@ -26,4 +26,5 @@ problems now.
 --
 BOM:  - 5x Cherry MX Switches - EC11 Rotary Encoder - 1x XIAO RP2040 - 5x Blank DSA Keycaps - 4x M3x16 Bolt - 4x M3 Heatset 
 Others: - KMK Firmware - Top Case.stl  - Bottom Case.stl - Custom PCB
+/
 *All of these parts I previously owned, so nothing was needed for purchase*
