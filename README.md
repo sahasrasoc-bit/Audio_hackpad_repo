@@ -28,3 +28,22 @@ BOM:  - 5x Cherry MX Switches - EC11 Rotary Encoder - 1x XIAO RP2040 - 5x Blank 
 Others: - KMK Firmware - Top Case.stl  - Bottom Case.stl - Custom PCB
 \
 *All of these parts I previously owned, so nothing was needed for purchase*
+
+**Schematic**
+--
+<img width="401" height="303" alt="image" src="https://github.com/user-attachments/assets/ca8a6dac-b0c8-4e83-a587-792cd05e115e" />
+
+**PCB**
+--
+<img width="386" height="536" alt="image" src="https://github.com/user-attachments/assets/0adc1efe-3aa2-4ab8-a0fa-b5cb579689ad" />
+
+
+**Case**
+--
+<img width="194" height="139" alt="image" src="https://github.com/user-attachments/assets/7bf98c0c-704b-4e42-ae30-3be25d26cdb0" />
+
+
+**Firmware**
+--
+Firmware was done using the template provided by blueprint using kmk. The changes made to the code included assigning each key to the board and adding in what each key did, heavily refrencing the shortcuts given in the library. 
+
