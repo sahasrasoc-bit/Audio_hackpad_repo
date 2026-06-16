@@ -13,7 +13,7 @@ This hackpad is designed to solve that problem, as I specifically designed it fo
 allowing me to quickly cut audio and adjust noise levels (all referencing Adobe Audition).  
 Moreover, I can do all this without risking clicking the wrong button or moving my hand away 
 from my mouse, solving my problem with time constraints and incorrect commands.  
-/
+
 **Challenges**
 --
 This was my very first time doing anything like this project. That means first-time using PCBs, 
@@ -21,7 +21,7 @@ electrical schematics, GitHub, the whole gist.
 It took a lot of googling and asking others for help, but I finally made it after a couple of weeks.  
 I'm really proud of this finished product and super happy that it'll solve a lot of my audio editing 
 problems now. 
-/
+
 **Specifications**
 --
 BOM:  - 5x Cherry MX Switches - EC11 Rotary Encoder - 1x XIAO RP2040 - 5x Blank DSA Keycaps - 4x M3x16 Bolt - 4x M3 Heatset 
