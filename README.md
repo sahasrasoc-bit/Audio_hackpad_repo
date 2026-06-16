@@ -44,7 +44,7 @@ Took a lot of inspiration from this guide from Blueprint! However, it was quite 
 Blueprint Guide: https://blueprint.hackclub.com/hackpad/index.md
 \
 Youtube  KiCAD Starter guide: https://www.youtube.com/watch?v=d9_-lQq8ShE 
-\ 
+\
 PCB Design tutorials: https://www.youtube.com/watch?v=zeH3WbMWvdg
 \
 People from slack + a LOT more Phil's Lab videos
