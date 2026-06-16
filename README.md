@@ -37,3 +37,14 @@ Others: - KMK Firmware - Top Case.stl  - Bottom Case.stl - Custom PCB
 --
 Firmware was done using the template provided by blueprint using kmk. The changes made to the code included assigning each key to the board and adding in what each key did, heavily refrencing the shortcuts given in the library. 
 
+**Resources Used**
+--
+Took a lot of inspiration from this guide from Blueprint! However, it was quite vague in terms of the additional features I wanted to add, so I used a lot of youtube videos as well. 
+\
+Blueprint Guide: https://blueprint.hackclub.com/hackpad/index.md
+\
+Youtube  KiCAD Starter guide: https://www.youtube.com/watch?v=d9_-lQq8ShE 
+\ 
+PCB Design tutorials: https://www.youtube.com/watch?v=zeH3WbMWvdg
+\
+People from slack + a LOT more Phil's Lab videos
