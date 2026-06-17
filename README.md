@@ -27,7 +27,7 @@ This was my very first time doing anything like this project. That means first-t
 \
 Others: - KMK Firmware - Top Case.stl  - Bottom Case.stl - Custom PCB
 \
-*All of these parts I previously owned, so nothing was needed for purchase*
+*All of these parts I already own, so nothing needed for purchase*
 
 **Schematic**
 --
