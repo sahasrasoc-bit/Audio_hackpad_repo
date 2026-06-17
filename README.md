@@ -21,7 +21,8 @@ This was my very first time doing anything like this project. That means first-t
 | XIAO RP2040 | 1 | 
 | Blank DSA Keycaps| 5 | 
 | M3x16 Bolt | 4 | 
-| M3 Heatset| 4| \
+| M3 Heatset| 4| 
+| Custom PCB | 1 | \
 
 
 \
