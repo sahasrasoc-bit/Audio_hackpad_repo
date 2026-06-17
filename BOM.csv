@@ -1,13 +1,8 @@
 Item,Quantity,Manufacturer,Description
-1,2,NE555P,Timer IC
-2,10,10k,Resistor 1/4W
-
-
-Material	Count
-Cherry MX Switches, 5, Hack Club Kit
-EC11 Rotary Encoder,	1, Hack Club Kit
-XIAO RP2040,	1, Hack Club Kit,
-Blank DSA Keycaps,	5, Hack Club Kit
-M3x16 Bolt,	4, Hack Club Kit,
-M3 Heatset,	4, Hack Club Kit,
-Custom PCB,	1, JCLPCB,
+Cherry MX Switches, 5, Hack Club Kit, These are the switches that are soldered onto the PCB and is for the shortcuts
+EC11 Rotary Encoder,	1, Hack Club Kit, This is the knob that is soldered on and is for audio
+XIAO RP2040,	1, Hack Club Kit, This is the microcontroller that is the "brain"
+Blank DSA Keycaps,	5, Hack Club Kit, These are the caps for the switches for usuage purposes
+M3x16 Bolt,	4, Hack Club Kit, These are the bolts that hold the case toghether
+M3 Heatset,	4, Hack Club Kit, These are the headsets for the bolts that keep it screwed in
+Custom PCB,	1, JCLPCB, This is the PCB which connects everything
