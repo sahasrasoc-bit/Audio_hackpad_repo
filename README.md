@@ -11,9 +11,17 @@ One of the biggest problems I always face when audio editing is having the short
 --
 This was my very first time doing anything like this project. That means first-time using PCBs, electrical schematics, GitHub, the whole gist.  It took a lot of googling and asking others for help, but I finally made it after a couple of weeks.  I'm really proud of this finished product and super happy that it'll solve a lot of my audio editing problems now. The most trouble I faced was with the resources, as many times they were extremely vauge, so I had to figure out how to work everything out from the beginning (making me take longer than the average person). 
 
-**Specifications**
+**Specifications and BOM**
 --
-BOM:  - 5x Cherry MX Switches - EC11 Rotary Encoder - 1x XIAO RP2040 - 5x Blank DSA Keycaps - 4x M3x16 Bolt - 4x M3 Heatset 
+**Bill of Materials***
+|Material| Count|
+| -------- | -------- | 
+| Cherry MX Switches | 5 | 
+| EC11 Rotary Encoder | 1 | 
+| XIAO RP2040 | 1 | 
+| Blank DSA Keycaps| 5 | 
+| M3x16 Bolt | 4 | 
+| M3 Heatset| 4| 
 \
 Others: - KMK Firmware - Top Case.stl  - Bottom Case.stl - Custom PCB
 \
