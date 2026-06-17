@@ -1,3 +1,13 @@
-Item,Quantity,Link/Manufacturer,Description
+Item,Quantity,Manufacturer,Description
 1,2,NE555P,Timer IC
 2,10,10k,Resistor 1/4W
+
+
+Material	Count
+Cherry MX Switches, 5, Hack Club Kit
+EC11 Rotary Encoder,	1, Hack Club Kit
+XIAO RP2040,	1, Hack Club Kit,
+Blank DSA Keycaps,	5, Hack Club Kit
+M3x16 Bolt,	4, Hack Club Kit,
+M3 Heatset,	4, Hack Club Kit,
+Custom PCB,	1, JCLPCB,
