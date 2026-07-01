@@ -43,7 +43,7 @@ keyboard.keymap = [
      KC.J, 
      KC.DELETE, 
      KC.SHIFT, 
-     KC.KC.Macro(Press(KC.MB_LMB), Tap(KC.MS_UP), Tap(KC.MS_UP), Tap(KC.MS_UP), Release(KC.MB_LMB),), 
+     KC.Macro(Press(KC.MB_LMB), Tap(KC.MS_UP), Tap(KC.MS_UP), Tap(KC.MS_UP), Release(KC.MB_LMB),), 
      KC.Macro( Press(KC.MB_LMB), Tap(KC.MS_DOWN), Tap(KC.MS_DOWN), Tap(KC.MS_DOWN), Release(KC.MB_LMB),), 
      KC.Macro(Press(KC.LSHIFT), Tap(KC.EQUAL), Tap(KC.U), Release(KC.LSHIFT)),
      KC.Macro(Press(KC.LSHIFT), Tap(KC.EQUAL), Tap(KC.U), Release(KC.LSHIFT)),]
