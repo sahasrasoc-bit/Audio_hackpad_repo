@@ -1,8 +1,8 @@
-Item,Quantity,Manufacturer,Description
-Cherry MX Switches, 5, Hack Club Kit, These are the switches that are soldered onto the PCB and is for the shortcuts
-EC11 Rotary Encoder,	1, Hack Club Kit, This is the knob that is soldered on and is for audio
-XIAO RP2040,	1, Hack Club Kit, This is the microcontroller that is incharge of all the commands
-Blank DSA Keycaps,	5, Hack Club Kit, These are the caps for the switches for usuage purposes
-M3x16 Bolt,	4, Hack Club Kit, These are the bolts that hold the case toghether
-M3 Heatset,	4, Hack Club Kit, These are the headsets for the bolts that keep it screwed in
-Custom PCB,	1, JLCPCB, This is the PCB which connects everything
+Item,Quantity,Manufacturer,Description,Link
+Cherry MX Switches, 5, Hack Club Kit, These are the switches that are soldered onto the PCB and is for the shortcuts, Given by Hack Club
+EC11 Rotary Encoder,	1, Hack Club Kit, This is the knob that is soldered on and is for audio, Given by Hack Club
+XIAO RP2040,	1, Hack Club Kit, This is the microcontroller that is incharge of all the commands, Given by Hack Club
+Blank DSA Keycaps,	5, Hack Club Kit, These are the caps for the switches for usuage purposes, Given by Hack Club
+M3x16 Bolt,	4, Hack Club Kit, These are the bolts that hold the case toghether, Given by Hack Club
+M3 Heatset,	4, Hack Club Kit, These are the headsets for the bolts that keep it screwed in, Given by Hack Club
+Custom PCB,	1, JLCPCB, This is the PCB which connects everything, https://jlcpcb.com/?from=VGSU&utm_source=google&utm_medium=cpc&utm_campaign=14179457750&gad_source=1&gad_campaignid=14179457750&gbraid=0AAAAABS1QqkEYiJVI5_vdA0zZlvFzuCA4&gclid=CjwKCAjw0o3SBhBVEiwAh28-jaJPOpn0MjEoZvqkiFBaZbg79JYn4mwbuX-1fenn5pgnV3v-itKBQxoCENkQAvD_BwE
