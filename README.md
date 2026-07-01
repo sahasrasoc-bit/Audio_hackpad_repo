@@ -1,5 +1,6 @@
 ***Sahasra’s Audio Hackpad***
 -------------------------------------
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/e672c5e5-e0d2-4f68-8f67-0f8c21cab1e1" />
 
 <img width="541" height="408" alt="image" src="https://github.com/user-attachments/assets/affbfab0-f9db-4b2f-b932-21dc96d04e55" />
 
